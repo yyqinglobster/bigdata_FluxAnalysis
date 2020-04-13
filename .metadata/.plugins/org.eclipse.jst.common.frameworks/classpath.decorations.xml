@@ -1,0 +1,7 @@
+<classpath>
+  <container id="FluxLogServer!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/codespace/big1910/bigdata-project/FluxLogServer/WebContent/WEB-INF/lib/apache-log4j-extras-1.1.jar">
+      <source-attachment-path>/FluxLogServer/WebContent/WEB-INF/lib/apache-log4j-extras-1.1.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

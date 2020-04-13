@@ -1,0 +1,6 @@
+127.0.0.1 - - [11/Apr/2020:14:40:59 +0800] "GET / HTTP/1.1" 200 11418
+0:0:0:0:0:0:0:1 - - [11/Apr/2020:14:41:30 +0800] "GET /FluxAppServer/a.jsp HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [11/Apr/2020:14:41:30 +0800] "GET /FluxAppServer/js/tongji.js HTTP/1.1" 200 9669
+0:0:0:0:0:0:0:1 - - [11/Apr/2020:14:41:31 +0800] "GET /FluxLogServer/servlet/LogServlet?url=http://localhost:8080/FluxAppServer/a.jsp&urlname=a.jsp&title=%E9%A1%B5%E9%9D%A2A&chset=UTF-8&scr=1440x960&col=24-bit&lg=zh-cn&je=0&ce=1&fv=&cnv=0.018838872020441988&ref=&uagent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/77.0.3865.90%20Safari/537.36&stat_uv=34553081984501874499&stat_ss=7734490945_0_1586587290933 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [11/Apr/2020:14:41:33 +0800] "GET /FluxAppServer/b.jsp HTTP/1.1" 200 256
+0:0:0:0:0:0:0:1 - - [11/Apr/2020:14:41:33 +0800] "GET /FluxLogServer/servlet/LogServlet?url=http://localhost:8080/FluxAppServer/b.jsp&urlname=b.jsp&title=%E9%A1%B5%E9%9D%A2B&chset=UTF-8&scr=1440x960&col=24-bit&lg=zh-cn&je=0&ce=1&fv=&cnv=0.5500181766482053&ref=http://localhost:8080/FluxAppServer/a.jsp&uagent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/77.0.3865.90%20Safari/537.36&stat_uv=34553081984501874499&stat_ss=7734490945_1_1586587293340 HTTP/1.1" 200 -

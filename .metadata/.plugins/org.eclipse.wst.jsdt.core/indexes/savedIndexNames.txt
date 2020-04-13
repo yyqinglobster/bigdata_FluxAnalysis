@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+D:\codespace\big1910\bigdata-project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2483922337.index
+1148170709.index
+1365719770.index
+30122927.index
+1219977909.index
+367081049.index
+3813429449.index
